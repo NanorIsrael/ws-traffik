@@ -1,0 +1,84 @@
+{
+    "data": {
+        "estimations": {
+            "site_worth": "$2,220,081,164",
+            "top_countries": [
+                {
+                    "code": "US",
+                    "users": "19.0%"
+                },
+                {
+                    "code": "IN",
+                    "users": "10.8%"
+                },
+                {
+                    "code": "JP",
+                    "users": "5.4%"
+                },
+                {
+                    "code": "RU",
+                    "users": "2.8%"
+                },
+                {
+                    "code": "BR",
+                    "users": "2.7%"
+                }
+            ],
+            "visitors": {
+                "daily": "55,271,807",
+                "monthly": "1,658,154,210",
+                "yearly": "20,174,209,555"
+            },
+            "pageviews": {
+                "daily": "1,013,733,360",
+                "monthly": "30,412,000,800",
+                "yearly": "370,012,676,400"
+            },
+            "revenue": {
+                "daily": "$1,013,741",
+                "monthly": "$30,412,220",
+                "yearly": "$370,015,341"
+            }
+        },
+        "alexa": {
+            "rank": {
+                "3_months": "1",
+                "1_month": "1",
+                "7_days": "1",
+                "1_day": "1"
+            },
+            "rank_delta": {
+                "3_months": "0",
+                "1_month": "0",
+                "7_days": "0",
+                "1_day": "0"
+            },
+            "reach": {
+                "3_months": "1",
+                "1_month": "1",
+                "7_days": "1",
+                "1_day": "1"
+            },
+            "reach_delta": {
+                "3_months": "0",
+                "1_month": "0",
+                "7_days": "0",
+                "1_day": "0"
+            },
+            "pageviews": {
+                "3_months": "237,850",
+                "1_month": "232,080",
+                "7_days": "239,900",
+                "1_day": "210,500"
+            },
+            "pageviews_delta": {
+                "3_months": "+1.38%",
+                "1_month": "+3.64%",
+                "7_days": "+0.1%",
+                "1_day": "-1.49%"
+            }
+        }
+    },
+    "queries_remained": 49,
+    "elapsed_time": "0.80"
+}

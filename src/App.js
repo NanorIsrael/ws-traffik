@@ -1,14 +1,15 @@
 import Header from "./components/Header";
-import IntroSection from "./components/IntroSection";
-import InfoSection from "./components/InfoSection";
+import Home from "./pages/Home";
 import Footer from "./components/Footer";
+import {Routes, Route} from "react-router-dom";
 
 function App() {
   return (
     <div className="App">
       <Header />
-      <IntroSection />
-      <InfoSection />
+        <Routes>
+            <Route path='/*' element={<Home/>}/>
+        </Routes>
       <Footer />
     </div>
   );
